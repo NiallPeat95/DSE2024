@@ -2,7 +2,7 @@
 % Methods used in this script: NFXP full mle
 %clear
 
-% methods to cosinder
+% methods to consinder
 method={'nfxp (pmle)', 'nfxp (mle)'}; % available:  
 %method={'nfxp (mle)', 'nfxp (pmle)', 'mpec (pmle)'}; 
 
